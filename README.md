@@ -11,7 +11,7 @@
 **Réalisé par :** Atiqa Essayouti  |  **Année Universitaire :** 2025/2026
 ---
 
-🌍 **[VOIR LE PROJET EN DIRECT ICI](https://atiqaessayouti.github.io/Page-de-recherche-de-google/)** 🌍
+
 
 </div>
 
