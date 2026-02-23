@@ -1,10 +1,10 @@
 # 🎓 Compte Rendu de Réalisation : Page de recherche de Google
 
 ---
-**Établissement :**ENSET
-**Filière / Module :** TECHNOLOGIE WEB
-**Réalisé par :** Atiqa Essayouti
-**Année Universitaire :** 2025/2026
+**Établissement :ENSET
+** Module : TECHNOLOGIE WEB
+**Réalisé par : Atiqa Essayouti
+**Année Universitaire : 2025/2026
 ---
 
 ## 📑 1. Introduction
